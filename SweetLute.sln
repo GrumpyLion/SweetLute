@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SweetLute", "SweetLute.csproj", "{F7BE35F3-71EA-4768-A27E-4B01B142BCC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7BE35F3-71EA-4768-A27E-4B01B142BCC7}.Debug|x64.ActiveCfg = Debug|x64
+		{F7BE35F3-71EA-4768-A27E-4B01B142BCC7}.Debug|x64.Build.0 = Debug|x64
+		{F7BE35F3-71EA-4768-A27E-4B01B142BCC7}.Release|x64.ActiveCfg = Release|x64
+		{F7BE35F3-71EA-4768-A27E-4B01B142BCC7}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91464B30-A78C-4239-B432-75DDE5BF5B7C}
+	EndGlobalSection
+EndGlobal
